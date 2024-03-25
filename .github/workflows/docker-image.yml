@@ -27,4 +27,4 @@ jobs:
         context: .
         platforms: linux/amd64,linux/arm,linux/arm64
         push: true
-        tags: 315600/ss/general:latest
+        tags: 315600/ss/general
